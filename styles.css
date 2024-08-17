@@ -1,0 +1,31 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+}
+
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.entry-container {
+    margin-bottom: 10px;
+}
+
+.main-bar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.sub-bar {
+    width: calc(100% - 20px);
+    padding: 8px;
+    margin-bottom: 5px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    margin-left: 20px;
+}
